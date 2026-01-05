@@ -1,11 +1,11 @@
-%flexJCCenterAICenter {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 %flexColumnCentradoVertical {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+%flexJCCenterAICenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
