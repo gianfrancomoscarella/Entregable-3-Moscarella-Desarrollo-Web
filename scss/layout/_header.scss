@@ -1,0 +1,16 @@
+.index-header {
+  background-image: url(../img/Fiat.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 80vh;
+  padding: 2rem;
+  text-align: center;
+
+  @extend %flexJCCenterAICenter;
+}
+
+.index-header-botones {
+  background-color: #000;
+  color: #fff;
+}
